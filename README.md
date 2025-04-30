@@ -97,8 +97,7 @@ Techniques active:
 | `enhanced_executor.go` | High-level CLI application orchestrating the full chain. |
 | `colors.go` | ANSI colour helpers using `fatih/color`. |
 | `xorme.py` | XOR encoder for shellcode blobs (Go / C# / Python output). |
-| `blog.md` | Deep-dive article explaining the techniques (used as reference for this README). |
-| `PRD.md` | Detailed Product Requirements Document for future enhancements. |
+
 
 ---
 
